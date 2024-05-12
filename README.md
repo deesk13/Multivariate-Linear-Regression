@@ -1,4 +1,7 @@
 # Implementation of Multivariate Linear Regression
+## NAME: DEVA DHARSHINI I
+
+## REGISTER NO: 21223240026
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
 ## Equipment’s required:
@@ -6,19 +9,18 @@ To write a python program to implement multivariate linear regression and predic
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 ### Step1
-<br>
+import pandas as pd
 
 ### Step2
-<br>
+import pandas as pd.
 
 ### Step3
-<br>
-
+Get the value of X and y variables.
 ### Step4
-<br>
+Get the value of X and y variables.
 
 ### Step5
-<br>
+predict the CO2 emission of a car where the weight is 2300kg, and the volume is 1300cm.
 
 ## Program:
 ```
